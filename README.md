@@ -1,2 +1,0 @@
-# lukatester
-tester for luka
