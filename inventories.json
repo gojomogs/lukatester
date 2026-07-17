@@ -1,0 +1,58 @@
+{
+  "727441845789130804": [
+    {
+      "card": {
+        "id": "tsuyu_rare",
+        "name": "Tsuyu Asui",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsuyu_rare.png",
+        "frame": "blue"
+      },
+      "print": 1,
+      "claimed_at": 1784331424.398515
+    },
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "Ryusei Shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784226112.430801
+    }
+  ],
+  "770651160695537697": [
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784331465.294147
+    },
+    {
+      "card": {
+        "id": "senku_common",
+        "name": "Senku Ishigami",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/senku_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784226374.0210927
+    }
+  ]
+}
