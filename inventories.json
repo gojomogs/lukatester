@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784398639.0003126
+    },
+    {
+      "card": {
         "id": "follo_common",
         "name": "Follo",
         "series": "Gachiakuta",
@@ -96,6 +109,32 @@
     }
   ],
   "770651160695537697": [
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784398749.7208903
+    },
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 2,
+      "claimed_at": 1784398638.8971498
+    },
     {
       "card": {
         "id": "ryusei_common",
@@ -204,6 +243,33 @@
     }
   ],
   "1241420729933758514": [
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784398748.407118
+    },
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784398623.0528786,
+      "tags": "hi"
+    },
     {
       "card": {
         "id": "ryusei_common",
