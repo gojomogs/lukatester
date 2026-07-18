@@ -172,7 +172,8 @@
         "frame": "common"
       },
       "print": 1,
-      "claimed_at": 1784331465.294147
+      "claimed_at": 1784331465.294147,
+      "tags": "\u2764\ufe0f"
     },
     {
       "card": {
@@ -185,7 +186,8 @@
         "frame": "common"
       },
       "print": 1,
-      "claimed_at": 1784226374.0210927
+      "claimed_at": 1784226374.0210927,
+      "pinned": true
     }
   ],
   "1241420729933758514": [
@@ -201,8 +203,8 @@
       },
       "print": 1,
       "claimed_at": 1784395826.0981565,
-      "tags": "\ud83d\udc68\u200d\u2764\ufe0f\u200d\ud83d\udc68\ud83d\ude2d",
-      "pinned": false
+      "tags": "\u2764\ufe0f",
+      "pinned": true
     }
   ]
 }
