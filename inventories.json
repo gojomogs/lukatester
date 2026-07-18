@@ -2,6 +2,74 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784395866.7499664,
+      "tags": "\ud83d\udc4c",
+      "pinned": false
+    },
+    {
+      "card": {
+        "id": "senku_common",
+        "name": "Senku Ishigami",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/senku_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784395823.2623699
+    },
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784395671.425454,
+      "tags": "\ud83d\udc4c"
+    },
+    {
+      "card": {
+        "id": "senku_common",
+        "name": "Senku Ishigami",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/senku_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784390860.4463825
+    },
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "Ryusei Shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784390606.0720456
+    },
+    {
+      "card": {
         "id": "tsuyu_rare",
         "name": "Tsuyu Asui",
         "series": "DC",
@@ -30,6 +98,71 @@
   "770651160695537697": [
     {
       "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784395723.130937
+    },
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784391457.8104494
+    },
+    {
+      "card": {
+        "id": "tsuyu_rare",
+        "name": "Tsuyu Asui",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsuyu_rare.png",
+        "frame": "blue"
+      },
+      "print": 1,
+      "claimed_at": 1784391215.6489334
+    },
+    {
+      "card": {
+        "id": "tsuyu_rare",
+        "name": "Tsuyu Asui",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsuyu_rare.png",
+        "frame": "blue"
+      },
+      "print": 1,
+      "claimed_at": 1784390905.521068
+    },
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "Ryusei Shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 2,
+      "claimed_at": 1784390651.226307
+    },
+    {
+      "card": {
         "id": "follo_common",
         "name": "Follo",
         "series": "Gachiakuta",
@@ -53,6 +186,23 @@
       },
       "print": 1,
       "claimed_at": 1784226374.0210927
+    }
+  ],
+  "1241420729933758514": [
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1784395826.0981565,
+      "tags": "\ud83d\udc68\u200d\u2764\ufe0f\u200d\ud83d\udc68\ud83d\ude2d",
+      "pinned": false
     }
   ]
 }
