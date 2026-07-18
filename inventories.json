@@ -119,6 +119,19 @@
         "image": "card_art/follo_common.png",
         "frame": "common"
       },
+      "print": 2,
+      "claimed_at": 1784399301.2712753
+    },
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "common"
+      },
       "print": 1,
       "claimed_at": 1784398749.7208903
     },
