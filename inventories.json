@@ -12,7 +12,7 @@
       },
       "print": 1,
       "claimed_at": 1784395866.7499664,
-      "tags": "\ud83d\udc4c",
+      "tags": "hellohello",
       "pinned": false
     },
     {
@@ -40,7 +40,7 @@
       },
       "print": 1,
       "claimed_at": 1784395671.425454,
-      "tags": "\ud83d\udc4c"
+      "tags": "hellohello"
     },
     {
       "card": {
@@ -203,7 +203,7 @@
       },
       "print": 1,
       "claimed_at": 1784395826.0981565,
-      "tags": "\u2764\ufe0f",
+      "tags": "hi",
       "pinned": true
     }
   ]
