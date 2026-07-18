@@ -111,6 +111,19 @@
   "770651160695537697": [
     {
       "card": {
+        "id": "luka_rare",
+        "name": "luka",
+        "series": "hey",
+        "stars": 4,
+        "weight": 10,
+        "image": "card_art/luka_rare.png",
+        "frame": "blue"
+      },
+      "print": 1,
+      "claimed_at": 1784400425.1970625
+    },
+    {
+      "card": {
         "id": "follo_common",
         "name": "Follo",
         "series": "Gachiakuta",
