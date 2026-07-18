@@ -107,6 +107,19 @@
         "frame": "common"
       },
       "print": 1,
+      "claimed_at": 1784396782.8061435
+    },
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 1,
       "claimed_at": 1784395723.130937
     },
     {
