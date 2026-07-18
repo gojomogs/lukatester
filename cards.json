@@ -19,7 +19,7 @@
   },
   {
     "id": "ryusei_common",
-    "name": "Ryusei Shidou",
+    "name": "ryusei shidou",
     "series": "BLUELOCK",
     "stars": 1,
     "weight": 10,
@@ -34,5 +34,5 @@
     "weight": 10,
     "image": "card_art/senku_common.png",
     "frame": "common"
-  },
+  }
 ]
