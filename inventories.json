@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "tsuyu_rare",
+        "name": "Tsuyu Asui",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsuyu_rare.png",
+        "frame": "blue"
+      },
+      "print": 1,
+      "claimed_at": 1784850088.002094
+    },
+    {
+      "card": {
         "id": "follo_common",
         "name": "Follo",
         "series": "Gachiakuta",
