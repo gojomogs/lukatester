@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "louchstella_rare",
+        "name": "louchstella",
+        "series": "frsgmia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/louchstella_rare.png",
+        "frame": "blue"
+      },
+      "print": 1,
+      "claimed_at": 1785181447.3197014
+    },
+    {
+      "card": {
         "id": "senku_common",
         "name": "Senku Ishigami",
         "series": "Dr. Stone",
@@ -55,6 +68,19 @@
     }
   ],
   "770651160695537697": [
+    {
+      "card": {
+        "id": "tsuyu_rare",
+        "name": "Tsuyu Asui",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsuyu_rare.png",
+        "frame": "blue"
+      },
+      "print": 2,
+      "claimed_at": 1785181443.4365497
+    },
     {
       "card": {
         "id": "ryusei_common",
