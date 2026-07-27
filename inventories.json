@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "white"
+      },
+      "print": 2,
+      "claimed_at": 1785186899.1124208
+    },
+    {
+      "card": {
         "id": "louchstella_rare",
         "name": "louchstella",
         "series": "frsgmia",
@@ -73,6 +86,19 @@
   "770651160695537697": [
     {
       "card": {
+        "id": "louchstella_rare",
+        "name": "louchstella",
+        "series": "frsgmia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/louchstella_rare.png",
+        "frame": "blue"
+      },
+      "print": 2,
+      "claimed_at": 1785186905.2784295
+    },
+    {
+      "card": {
         "id": "tsuyu_rare",
         "name": "Tsuyu Asui",
         "series": "DC",
@@ -96,6 +122,21 @@
       },
       "print": 1,
       "claimed_at": 1784849399.9825828
+    }
+  ],
+  "1241420729933758514": [
+    {
+      "card": {
+        "id": "tsuyu_rare",
+        "name": "Tsuyu Asui",
+        "series": "DC",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/tsuyu_rare.png",
+        "frame": "blue"
+      },
+      "print": 3,
+      "claimed_at": 1785187164.1060467
     }
   ]
 }
