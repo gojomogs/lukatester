@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "senku_common",
+        "name": "Senku Ishigami",
+        "series": "Dr. Stone",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/senku_common.png",
+        "frame": "common"
+      },
+      "print": 1,
+      "claimed_at": 1785177760.5613089
+    },
+    {
+      "card": {
         "id": "luka_rare",
         "name": "luka",
         "series": "hey",
