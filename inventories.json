@@ -2,6 +2,32 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "quiet_rare",
+        "name": "quiet on",
+        "series": "the creek",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/quiet_rare.png",
+        "frame": "white"
+      },
+      "print": 2,
+      "claimed_at": 1785190271.8382008
+    },
+    {
+      "card": {
+        "id": "quiet_rare",
+        "name": "quiet on",
+        "series": "the creek",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/quiet_rare.png",
+        "frame": "white"
+      },
+      "print": 1,
+      "claimed_at": 1785190211.9744797
+    },
+    {
+      "card": {
         "id": "follo_common",
         "name": "Follo",
         "series": "Gachiakuta",
@@ -126,6 +152,19 @@
     }
   ],
   "1241420729933758514": [
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "white"
+      },
+      "print": 3,
+      "claimed_at": 1785190535.147271
+    },
     {
       "card": {
         "id": "tsuyu_rare",
