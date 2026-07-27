@@ -52,5 +52,14 @@
     "weight": 5,
     "image": "card_art/luka_rare.png",
     "frame": "blue"
+  },
+  {
+    "id": "quiet_rare",
+    "name": "quiet on",
+    "series": "the creek",
+    "stars": 4,
+    "weight": 5,
+    "image": "card_art/quiet_rare.png",
+    "frame": "white"
   }
 ]
