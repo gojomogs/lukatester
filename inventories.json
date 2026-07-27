@@ -95,7 +95,8 @@
         "frame": "blue"
       },
       "print": 2,
-      "claimed_at": 1785186905.2784295
+      "claimed_at": 1785186905.2784295,
+      "showcased": true
     },
     {
       "card": {
