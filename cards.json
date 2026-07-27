@@ -61,5 +61,14 @@
     "weight": 5,
     "image": "card_art/quiet_rare.png",
     "frame": "white"
+  },
+  {
+    "id": "fernando_rare",
+    "name": "Fernando torres",
+    "series": "minas bf",
+    "stars": 4,
+    "weight": 5,
+    "image": "card_art/fernando_rare.png",
+    "frame": "white"
   }
 ]
