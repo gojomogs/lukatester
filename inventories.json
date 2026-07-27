@@ -154,6 +154,19 @@
   "1241420729933758514": [
     {
       "card": {
+        "id": "fernando_rare",
+        "name": "Fernando torres",
+        "series": "minas bf",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/fernando_rare.png",
+        "frame": "white"
+      },
+      "print": 1,
+      "claimed_at": 1785191308.8690538
+    },
+    {
+      "card": {
         "id": "follo_common",
         "name": "Follo",
         "series": "Gachiakuta",
