@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "white"
+      },
+      "print": 6,
+      "claimed_at": 1785272942.5703943
+    },
+    {
+      "card": {
         "id": "senku_common",
         "name": "Senku Ishigami",
         "series": "Dr. Stone",
@@ -205,6 +218,19 @@
     }
   ],
   "1241420729933758514": [
+    {
+      "card": {
+        "id": "luka_rare",
+        "name": "luka",
+        "series": "hey",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/luka_rare.png",
+        "frame": "blue"
+      },
+      "print": 2,
+      "claimed_at": 1785272940.128163
+    },
     {
       "card": {
         "id": "follo_common",
