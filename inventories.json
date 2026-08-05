@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "luka_rare",
+        "name": "luka",
+        "series": "hey",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/luka_rare.png",
+        "frame": "blue"
+      },
+      "print": 3,
+      "claimed_at": 1785960637.7751732
+    },
+    {
+      "card": {
         "id": "fernando_rare",
         "name": "Fernando torres",
         "series": "minas bf",
@@ -175,6 +188,19 @@
     }
   ],
   "770651160695537697": [
+    {
+      "card": {
+        "id": "quiet_rare",
+        "name": "quiet on",
+        "series": "the creek",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/quiet_rare.png",
+        "frame": "white"
+      },
+      "print": 3,
+      "claimed_at": 1785960804.4497824
+    },
     {
       "card": {
         "id": "fernando_rare",
