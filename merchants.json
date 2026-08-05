@@ -1,0 +1,32 @@
+{
+  "merchants": [
+    {
+      "id": "lucky_merchant_1785960618_1370",
+      "template_id": "lucky_merchant",
+      "wants": [
+        {
+          "id": "ryusei_common",
+          "name": "ryusei shidou",
+          "series": "BLUELOCK",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/ryussei_common.png"
+        }
+      ],
+      "rewards": [
+        {
+          "id": "ryusei_common",
+          "name": "ryusei shidou",
+          "series": "BLUELOCK",
+          "stars": 1,
+          "frame": "common",
+          "image": "card_art/ryussei_common.png"
+        }
+      ],
+      "stock": 9,
+      "start_ts": 1785960618.561572,
+      "expires_ts": 1786047018.561572
+    }
+  ],
+  "next_generation_at": null
+}
