@@ -203,6 +203,31 @@
   "770651160695537697": [
     {
       "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "frame": "common",
+        "image": "card_art/ryussei_common.png"
+      },
+      "print": 2,
+      "claimed_at": 1785970887.471642
+    },
+    {
+      "card": {
+        "id": "follo_common",
+        "name": "Follo",
+        "series": "Gachiakuta",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/follo_common.png",
+        "frame": "white"
+      },
+      "print": 7,
+      "claimed_at": 1785970814.977661
+    },
+    {
+      "card": {
         "id": "quiet_rare",
         "name": "quiet on",
         "series": "the creek",
@@ -267,19 +292,6 @@
       },
       "print": 2,
       "claimed_at": 1785181443.4365497
-    },
-    {
-      "card": {
-        "id": "ryusei_common",
-        "name": "ryusei shidou",
-        "series": "BLUELOCK",
-        "stars": 1,
-        "weight": 10,
-        "image": "card_art/ryussei_common.png",
-        "frame": "common"
-      },
-      "print": 1,
-      "claimed_at": 1784849399.9825828
     }
   ],
   "1241420729933758514": [
