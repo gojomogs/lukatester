@@ -203,6 +203,19 @@
   "770651160695537697": [
     {
       "card": {
+        "id": "louchstella_rare",
+        "name": "louchstella",
+        "series": "frsgmia",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/louchstella_rare.png",
+        "frame": "blue"
+      },
+      "print": 4,
+      "claimed_at": 1785971466.3635695
+    },
+    {
+      "card": {
         "id": "ryusei_common",
         "name": "ryusei shidou",
         "series": "BLUELOCK",
