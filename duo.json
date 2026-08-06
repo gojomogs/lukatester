@@ -1,0 +1,28 @@
+{
+  "active": {
+    "0fbf4586-05eb-4506-8a35-50cd73742949": {
+      "type": "claim_series",
+      "target": 15,
+      "label": "Claim cards from 15 different series together",
+      "progress": 0,
+      "series_seen": [],
+      "id": "0fbf4586-05eb-4506-8a35-50cd73742949",
+      "player_a": "1241420729933758514",
+      "player_b": "770651160695537697",
+      "started_at": 1786053073.643236,
+      "channel_id": 1527354793448968222
+    }
+  },
+  "weekly": {},
+  "cooldowns": {},
+  "bonus": {
+    "770651160695537697": {
+      "drop": 0,
+      "claim": 0
+    },
+    "1241420729933758514": {
+      "drop": 0,
+      "claim": 0
+    }
+  }
+}
