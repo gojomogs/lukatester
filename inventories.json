@@ -2,6 +2,19 @@
   "727441845789130804": [
     {
       "card": {
+        "id": "quiet_rare",
+        "name": "quiet on",
+        "series": "the creek",
+        "stars": 4,
+        "weight": 5,
+        "image": "card_art/quiet_rare.png",
+        "frame": "white"
+      },
+      "print": 4,
+      "claimed_at": 1786053044.048644
+    },
+    {
+      "card": {
         "id": "louchstella_rare",
         "name": "louchstella",
         "series": "frsgmia",
@@ -201,6 +214,19 @@
     }
   ],
   "770651160695537697": [
+    {
+      "card": {
+        "id": "ryusei_common",
+        "name": "ryusei shidou",
+        "series": "BLUELOCK",
+        "stars": 1,
+        "weight": 10,
+        "image": "card_art/ryussei_common.png",
+        "frame": "common"
+      },
+      "print": 3,
+      "claimed_at": 1786053029.790676
+    },
     {
       "card": {
         "id": "louchstella_rare",
