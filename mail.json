@@ -1,0 +1,55 @@
+{
+  "1241420729933758514": [
+    {
+      "id": "3efebb12-f63e-477e-9143-51179225bfc6",
+      "sender_id": "770651160695537697",
+      "receiver_id": "1241420729933758514",
+      "timestamp": 1786053067.062135,
+      "message": "Hi",
+      "read": true
+    },
+    {
+      "id": "7ecc5782-a7a5-44ee-b2ee-ed0e42e347b6",
+      "sender_id": "770651160695537697",
+      "receiver_id": "1241420729933758514",
+      "timestamp": 1786053113.4749835,
+      "message": "Nothing much my friend how r u my friend",
+      "read": true
+    },
+    {
+      "id": "e052e6a7-2688-404d-9345-bc5773408f3d",
+      "sender_id": "770651160695537697",
+      "receiver_id": "1241420729933758514",
+      "timestamp": 1786053240.7897882,
+      "message": "Can u helo me bag mydeis?",
+      "read": true
+    },
+    {
+      "id": "6b7da7e5-c3d3-4e7b-8f0f-230e8be362c8",
+      "sender_id": "727441845789130804",
+      "receiver_id": "1241420729933758514",
+      "timestamp": 1786053260.557459,
+      "message": "Fat chud",
+      "read": false
+    }
+  ],
+  "770651160695537697": [
+    {
+      "id": "0118a4e6-090a-4f3a-a9a3-6e4d9897361b",
+      "sender_id": "1241420729933758514",
+      "receiver_id": "770651160695537697",
+      "timestamp": 1786053089.008916,
+      "message": "whats up my friend",
+      "read": true
+    },
+    {
+      "id": "c92eb491-1837-4a84-b426-e8fdd92afd78",
+      "sender_id": "1241420729933758514",
+      "receiver_id": "770651160695537697",
+      "timestamp": 1786053150.3398144,
+      "message": "pretty good day and all nice day",
+      "read": true
+    }
+  ],
+  "727441845789130804": []
+}
